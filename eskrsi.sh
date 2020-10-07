@@ -1,7 +1,7 @@
-#Creator:Fahmiapz
-#Date:19/09/2020
-#time:23:00
-#Recode Teros Boss Tinggal Pake Apa Susahnya Anjeng
+#Creator:Faizuk
+#Date:7/10/2020
+#time:17:45
+#Recode Teros Boss Tinggal Pake Apa Susahnya Anjeng/kontol/kintil
 import requests,re,os,sys,time,json,random,urllib,mechanize
 from requests.exceptions import ConnectionError
 from time import sleep as timeout
